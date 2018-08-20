@@ -3,7 +3,6 @@ from PIL import ImageOps
 import os
 import time
 from numpy import *
-import win32api, win32con
 import vlc
 
 """
@@ -45,9 +44,6 @@ def grab(box):
     #print(a)
     return a
 
-def get_cords():
-    x, y = win32api.GetCursorPos()
-    print(x, y)
 
 def d_scan_check(cord, img):
     """
