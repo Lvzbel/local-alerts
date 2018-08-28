@@ -19,10 +19,10 @@ scanCord = [(2156, 894), (2156, 916), (2156, 938), (2156, 960), (2156, 982), (21
             (2156, 1290), (2156, 1312), (2156, 1334), (2156, 1356), (2156, 1378)]
 
 # Main Client Local Coordinates:
-homeLocal = (1668, 668, 1849, 1002)
+homeLocal = (1629, 671, 1846, 1048)
 
 # Scout Overlay Local Coordinates:
-scoutLocal = (1862, 623, 2135, 1095)
+scoutLocal = (1858, 624, 2139, 1119)
 
 # Testing Coords
 testLocal = (229, 690, 422, 1043)
